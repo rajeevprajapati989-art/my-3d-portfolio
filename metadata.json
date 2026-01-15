@@ -1,0 +1,8 @@
+{
+  "name": "Rajeev Prajapati | Developer Portfolio",
+  "description": "Professional portfolio of Rajeev Prajapati, featuring 3D interactive elements and an AI-powered personal assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
